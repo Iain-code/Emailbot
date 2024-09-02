@@ -1,2 +1,0 @@
-# Emailbot
-MY EMAIL BOT
